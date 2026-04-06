@@ -6,7 +6,7 @@ Data Analysis Projects using PowerBI
 
 This project demonstrates a complete data analysis workflow, starting from raw web data extraction to a clean, structured dataset ready for analysis.
 
-
+<img width="1349" height="619" alt="webiste data 1" src="https://github.com/user-attachments/assets/df12309c-c4c6-4e46-960f-e38a9d7f1db9" />
 
 🚀 Project Overview
 
@@ -81,7 +81,7 @@ Reduced errors in further processing
 
 
 
-<img width="1349" height="619" alt="webiste data 1" src="https://github.com/user-attachments/assets/df12309c-c4c6-4e46-960f-e38a9d7f1db9" />
+
 
 <img width="1363" height="715" alt="cleaned data 2" src="https://github.com/user-attachments/assets/9c789c24-5d45-413b-bd2a-d7408db6ce37" />
 
